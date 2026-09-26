@@ -14,4 +14,4 @@ Statistics graduate from Ohio State. I build sports analytics projects, data vis
 | [BI-templates](https://github.com/Joelwinner27/BI-templates) | Power BI visualization templates, including a U.S. state hex map built with Deneb | Power BI, Vega |
 | [mysite](https://github.com/Joelwinner27/mysite) | Source for my website and sports analytics blog | Hugo, R blogdown |
 
-**Tools I use:** R · Python · Power BI · Tableau · SQL · JavaScript
+**Tools I use:** R · Python · Power BI · Tableau · JavaScript
